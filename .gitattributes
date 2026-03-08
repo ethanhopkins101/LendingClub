@@ -1,0 +1,6 @@
+models/**/*.pkl filter=lfs diff=lfs merge=lfs -text
+data/cleaned/markovian/markov_isolater.csv filter=lfs diff=lfs merge=lfs -text
+data/cleaned/splitter/test.csv filter=lfs diff=lfs merge=lfs -text
+data/cleaned/splitter/initial_review_predict_5k.csv filter=lfs diff=lfs merge=lfs -text
+*.json filter=lfs diff=lfs merge=lfs -text
+data/cleaned/markovian/markovian_isolater.csv filter=lfs diff=lfs merge=lfs -text
